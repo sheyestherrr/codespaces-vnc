@@ -1,3 +1,8 @@
 {
-  "build": { "dockerfile": "Dockerfile" },
+  "hostRequirements": {
+    "cpus": 8,
+    "memory": "32gb",
+    "storage": "128gb"
+  },
+  "build": { "dockerfile": "Dockerfile" }
 }
