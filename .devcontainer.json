@@ -1,8 +1,8 @@
 {
-  "hostRequirements": {
-    "cpus": 8,
-    "memory": "32gb",
-    "storage": "64gb"
-  },
+  // "hostRequirements": {
+  //   "cpus": 8,
+  //   "memory": "32gb",
+  //   "storage": "64gb"
+  // },
   "build": { "dockerfile": "Dockerfile" }
 }
